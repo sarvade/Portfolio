@@ -3,20 +3,23 @@
 # #description: text below image
 # theme: jekyll-theme-minimal
 
-# _config.yml
+
 title: Sai Sarvade
 description: Data & DataOps Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Theme settings
-remote_theme: jekyll-theme-minimal
-minima:
-  skin: dark
-  social_links:
-    linkedin: saisarvade
-    github: your-github-username
-  
+remote_theme: pmarsceill/just-the-docs # Switching to a more robust theme suitable for portfolios
+just_the_docs:
+  color_scheme: dark
+  logo: /assets/images/logo.png # Add a custom logo if desired
+  aux_links: # Social media and other links
+    LinkedIn:
+      - https://linkedin.com/in/saisarvade
+    GitHub:
+      - https://github.com/your-github-username
+
 # Build settings
 markdown: kramdown
 plugins:
@@ -42,11 +45,14 @@ exclude:
   - node_modules
   - vendor
   - .git/
+  - assets/images # Add your custom images here
   
 # Custom variables
 profession: Data Engineer
 location: Atlanta, GA
-phone: (470)-301-1437
+email: sai.s.sarvade@gmail.com
+linkedin: https://linkedin.com/in/saisarvade
+github: https://github.com/your-github-username
 
 # Analytics (you can add your Google Analytics ID here)
 google_analytics: # your google analytics id
