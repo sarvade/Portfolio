@@ -2,7 +2,9 @@ title: Sai Sarvade
 logo: /assets/img/IMG_1282.JPG
 #description: text below image
 # theme: jekyll-theme-minimal
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+
+theme: jekyll-theme-hacker
 
 
 
