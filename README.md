@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sai Sarvade
 
-> DataOps Engineer with expertise in building scalable data pipelines and automated data quality systems
+> Data Engineer with expertise in building scalable data pipelines and automated data quality systems
 
 ## 🚀 About Me
 
