@@ -4,42 +4,44 @@
 # theme: jekyll-theme-minimal
 
 title: Sai Sarvade
-description: Data & DataOps Engineer
-baseurl: "" # subpath of your site, e.g., /blog
+description: Data & DataOps Engineer | Portfolio
+baseurl: "" # leave blank if hosted at the root of your domain
 url: "https://yourusername.github.io" # replace with your GitHub Pages URL
 
 # Theme settings
-remote_theme: cotes2020/jekyll-theme-chirpy # A clean, modern theme with dark mode
-
-# Build settings
-markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes # A modern and polished theme
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-remote-theme
 
-# Author information
+# Appearance
+minimal_mistakes_skin: dark # Enable dark mode
+logo: /assets/images/logo.png # Optional logo
+
+# Navigation
+navigation:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Contact"
+    url: /contact/
+
+# Social links
 author:
-  name: Sai S Sarvade
-  avatar: /assets/img/avatar.jpg # Add your profile photo here
+  name: Sai Sarvade
+  avatar: /assets/images/avatar.jpg # Your profile picture
   email: sai.s.sarvade@gmail.com
   social:
     github: your-github-username
     linkedin: saisarvade
+    twitter: saisarvade
 
-# Appearance
-theme_mode: dark # Default to dark mode
-logo: /assets/img/logo.png # Add a logo if desired
-toc: true # Show a table of contents for posts/pages
-
-# Navigation bar
-navbar:
-  home: /
-  about: /about/
-  projects: /projects/
-
-# Footer
+# Footer customization
 footer:
   text: "© 2025 Sai Sarvade. All rights reserved."
   social_links:
@@ -49,11 +51,32 @@ footer:
     - label: LinkedIn
       icon: fab fa-linkedin
       link: https://linkedin.com/in/saisarvade
+    - label: Twitter
+      icon: fab fa-twitter
+      link: https://twitter.com/saisarvade
 
-# Custom settings
-profession: Data Engineer
-location: Atlanta, GA
-google_analytics: # Add your Google Analytics ID if applicable
+# SEO and Analytics
+google_analytics: "UA-XXXXXXXXX-X" # Add your Google Analytics ID if available
+search_engine_optimization:
+  meta_description: "Sai Sarvade | Data Engineer Portfolio"
+  meta_keywords: "Sai Sarvade, Data Engineer, Portfolio, DataOps"
+
+# Collections (for projects and posts)
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+# Exclude unnecessary files from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git/
+
+# Build settings
+markdown: kramdown
 
 
 ---
