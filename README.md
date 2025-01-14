@@ -36,9 +36,8 @@ Currently working at **Delta Air Lines** as a Data Engineer, where I:
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://linkedin.com/saisarvade)
-- Email: sai.s.sarvade@gmail.com
-- Phone: (470)-301-1437
+- [LinkedIn](https://www.linkedin.com/in/sankeerthsarvade/)
+- Email: sai.s.sarvade (at) gmail.com
 
 ---
 
