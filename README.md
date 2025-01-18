@@ -89,7 +89,90 @@ When I'm not architecting data infrastructures for airlines or analyzing satelli
 - **Tools & Tech**: **AWS (Redshift, S3, Kinesis)**, **Terraform**, **dbt**  
 - **Impact**: Improved targeted campaigns, boosted loyalty program engagement, and drove a 15% increase in customer retention.
 
+### 5. **Real-time Space Weather Data Processing**
+- **Overview**: Built a scalable pipeline to analyze space weather data, including solar flare predictions and cosmic ray activity.
+- **Tools & Tech**: **Apache Kafka**, **AWS Kinesis**, **Grafana**, **Python (SciPy)**
+- **Impact**: Provided real-time alerts to space agencies, helping mitigate risks to satellite infrastructure during solar storms.
+
+### 6. **Predictive Flight Delays using ML**
+- **Overview**: Developed a machine learning model to predict flight delays based on historical data, weather patterns, and air traffic.
+- **Tools & Tech**: **Python (scikit-learn)**, **TensorFlow**, **AWS S3**, **PostgreSQL**
+- **Impact**: Decreased flight delay prediction errors by 20%, improving customer satisfaction and operational efficiency.
+
+### 7. **Satellite Data Ingestion & Analytics for Earth Monitoring**
+- **Overview**: Designed an end-to-end pipeline to process satellite data for Earth monitoring, focusing on deforestation tracking and urban expansion.
+- **Tools & Tech**: **Apache Spark**, **AWS Glue**, **Google Earth Engine**, **GeoPandas**
+- **Impact**: Generated reports that influenced policy decisions related to environmental conservation and urban planning.
+
+### 8. **Airline Customer Segmentation for Targeted Marketing**
+- **Overview**: Created a data pipeline that ingests customer data to apply machine learning models for segmenting passengers based on travel patterns.
+- **Tools & Tech**: **AWS Redshift**, **dbt**, **Python (scikit-learn)**, **Matplotlib**
+- **Impact**: Helped optimize marketing campaigns, resulting in a 15% increase in customer retention.
+
+### 9. **AI-Based Satellite Imagery Classification for Agricultural Monitoring**
+- **Overview**: Leveraged machine learning models to classify satellite imagery, helping farmers track crop health and make data-driven decisions.
+- **Tools & Tech**: **TensorFlow**, **Keras**, **OpenCV**, **Google Earth Engine**
+- **Impact**: Provided actionable insights for farmers, reducing crop loss by up to 30% during seasonal changes.
+
 ---
+
+## 🔍 Case Studies
+
+### Case Study 1: Optimizing Flight Delay Predictions
+**Challenge**: Airline systems faced challenges with predicting flight delays due to numerous variables (weather, air traffic, etc.).
+**Solution**: Built an ML-based prediction model using **XGBoost** and **AWS** to improve the accuracy of flight delay predictions.
+**Impact**: Reduced predictive errors by 20%, improving operational efficiency and customer satisfaction.
+
+### Case Study 2: Real-Time Space Weather Monitoring
+**Challenge**: Solar activity impacts satellite communications, requiring real-time alerts.
+**Solution**: Developed a streaming pipeline using **Apache Kafka** and **AWS Lambda** to monitor and alert space agencies of solar flare activity.
+**Impact**: Enabled proactive mitigation of risks to satellite systems, improving data integrity and operational security.
+
+---
+
+## 🌐 Open Source Contributions
+- **Contributor**: **Apache Airflow**  
+  Added new features and fixed bugs related to **data pipeline orchestration**.  
+  [Link to Pull Requests](https://github.com/apache/airflow/pulls)
+- **Contributor**: **Great Expectations**  
+  Worked on enhancing the **data quality validation** framework to support more complex data types.  
+  [Link to Pull Requests](https://github.com/great-expectations/great_expectations/pulls)
+
+-- 
+
+## 📚 Hobbies - Science & Knowledge Exploration
+I'm passionate about continuous learning and often delve into books on a wide range of topics, from **data science** to **astrophysics**. Some of my favorite reads include:
+- *Sapiens: A Brief History of Humankind* by Yuval Noah Harari
+- *Cosmos* by Carl Sagan
+- *Astrophysics for People in a Hurry* by Neil deGrasse Tyson
+- *The Selfish Gene* by Richard Dawkins
+- *The Emperor of All Maladies* by Siddhartha Mukherjee
+- *A Brief History of Time* by Stephen Hawking
+- *The Gene: An Intimate History* by Siddhartha Mukherjee
+- *The Structure of Scientific Revolutions* by Thomas S. Kuhn
+- *The Fabric of the Cosmos* by Brian Greene
+- *Thinking, Fast and Slow* by Daniel Kahneman
+- *The Man Who Knew Infinity* by Robert Kanigel
+- *The Innovators* by Walter Isaacson
+- *Why We Sleep* by Matthew Walker
+- *The Immortal Life of Henrietta Lacks* by Rebecca Skloot
+- *The Big Picture* by Sean Carroll
+- *The Quantum Universe* by Brian Cox and Jeff Forshaw
+- *The Universe in a Nutshell* by Stephen Hawking
+- *Flatland* by Edwin A. Abbott
+- *The Martian* by Andy Weir
+- *The Singularity is Near* by Ray Kurzweil
+
+---
+
+## 🎧 Podcasts - Fueling My Curiosity
+I enjoy listening to podcasts that challenge and expand my understanding of science and technology. Some of my go-to podcasts include:
+- **StarTalk** by Neil deGrasse Tyson – A fun, insightful podcast that explores science, space, and the wonders of the universe.
+- **Reply All** – A fascinating podcast exploring technology, internet culture, and human connections.
+- **The Infinite Monkey Cage** by Brian Cox & Robin Ince – A delightful and humorous podcast where experts discuss everything from quantum physics to neuroscience.
+- **The Vergecast** – Covers everything from the latest in tech and science to pop culture and digital innovation.
+- **Science Vs** – A podcast that pits science against popular myths, exploring topics ranging from diets to climate change.
+
 
 ## 🤝 Let's Connect
 - **LinkedIn**: [linkedin.com/in/sankeerthsarvade/](https://www.linkedin.com/in/sankeerthsarvade/)  
