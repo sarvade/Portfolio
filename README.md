@@ -138,7 +138,7 @@ When I'm not architecting data infrastructures for airlines or analyzing satelli
   Worked on enhancing the **data quality validation** framework to support more complex data types.  
   [Link to Pull Requests](https://github.com/great-expectations/great_expectations/pulls)
 
--- 
+--- 
 
 ## 📚 Hobbies - Science & Knowledge Exploration
 I'm passionate about continuous learning and often delve into books on a wide range of topics, from **data science** to **astrophysics**. Some of my favorite reads include:
@@ -173,6 +173,14 @@ I enjoy listening to podcasts that challenge and expand my understanding of scie
 - **The Vergecast** – Covers everything from the latest in tech and science to pop culture and digital innovation.
 - **Science Vs** – A podcast that pits science against popular myths, exploring topics ranging from diets to climate change.
 
+---
+
+## 📖 Blog & Articles
+I sometimes write about my space-stuff, and my journey through the tech world. Feel free to check out my blog for more insights:
+
+- [Bad Boy of Physics Blog](https://badboyofphysics.blogspot.com/)
+
+---
 
 ## 🤝 Let's Connect
 - **LinkedIn**: [linkedin.com/in/sankeerthsarvade/](https://www.linkedin.com/in/sankeerthsarvade/)  
