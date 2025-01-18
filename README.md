@@ -7,9 +7,9 @@
 ## 🚀 About Me
 I'm a **Data Engineer** with a unique blend of aerospace/astrophysics background and a passion for **large-scale data engineering** challenges. With 3+ years of industry experience, I specialize in **designing robust data pipelines**, **implementing automated data quality frameworks**, and **crafting data-driven solutions** that power mission-critical systems. 
 
-                            ╭───────────╮
+                            ╭───────────╮                                                        
                             │ LAUNCH PAD │
-                            ╰───┬─────┬───╯
+                            ╰───┬─────┬───╯                            
                     ┈┈┈┈┈┈┈┈ ┈┈┈┈┈┈┈┈ ┈┈┈┈
                              ★   ↑   ★
                         ___    |    ___
@@ -231,5 +231,20 @@ I sometimes write about my space-stuff, and my journey through the tech world. F
 ---
 
 > **"Science does not know its debt to imagination."** — Ralph Waldo Emerson
+
+
+          🌑 **NIGHTSIDE** 🌑
+                      ───────────────
+      🌟✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+              🌠         🛸         🌠
+        🌌  🌙          (🌍)           🌙  🌌
+              🌠       🌑🌟🌑       🌠
+        🪐   ⬇️     🌑🌑🪐🌑🌑     ⬇️   🪐
+              🌑     🌌  🚀  🌌     🌑
+    🌑🌟🌑     🌙   🌠      🪐      🌙   🌑🌟🌑
+    🌌     🌌   🛸🌑           🌑🛸   🌌    🌌
+    ✨       ✨     🛸🌑     🌑🛸     ✨       ✨
+    🌟✨🌟✨✨🌟✨✨✨🌟✨✨✨🌟✨✨🌟✨🌟✨✨🌟
+      🎇           💫🚀💫          🎇
 
 _Thanks for visiting, and feel free to explore my repositories!_
