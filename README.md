@@ -233,8 +233,8 @@ I sometimes write about my space-stuff, and my journey through the tech world. F
 > **"Science does not know its debt to imagination."** — Ralph Waldo Emerson
 
 
-          🌑 **NIGHTSIDE** 🌑
-                      ───────────────
+
+         ───────────────
       🌟✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
               🌠         🛸         🌠
         🌌  🌙          (🌍)           🌙  🌌
