@@ -7,6 +7,20 @@
 ## 🚀 About Me
 I'm a **Data Engineer** with a unique blend of aerospace/astrophysics background and a passion for **large-scale data engineering** challenges. With 3+ years of industry experience, I specialize in **designing robust data pipelines**, **implementing automated data quality frameworks**, and **crafting data-driven solutions** that power mission-critical systems. 
 
+                                                                                          ╭───────────╮
+                                                                                          │ LAUNCH PAD │
+                                                                                          ╰───┬─────┬───╯
+                                                                                  ┈┈┈┈┈┈┈┈ ┈┈┈┈┈┈┈┈ ┈┈┈┈
+                                                                                           ★   ↑   ★
+                                                                                      ___    |    ___
+                                                                                     /   \   |   /   \
+                                                                            🔥🔥=====(_____)==( )(_____)=====🔥🔥
+                                                                                     \___/   |   \___/
+                                                                                           __|__
+                                                                                           ╰┈┈┈┈╯
+**Ignite your curiosity and blast off into data exploration!**
+**Ignite your curiosity and blast off into data exploration!**
+
 When I'm not architecting data infrastructures for airlines or analyzing satellite imagery, you'll find me exploring the latest trends in AI, dreaming up cosmic-scale analytics solutions, or reading about astrophysical phenomena.
 
 ---
@@ -53,7 +67,17 @@ When I'm not architecting data infrastructures for airlines or analyzing satelli
 
 ## 🎓 Education
 - **M.S. in Data Science & Space Physics** — *Rice University*  
-- **B.S. in Aerospace Engineering** — *Amrita Vishwa Vidyapeetham*  
+- **B.S. in Aerospace Engineering** — *Amrita Vishwa Vidyapeetham*
+
+                                                                  ┌───────────────────────────────────┐
+                                                                  │  > Booting data-engine.sys...    │
+                                                                  │  > Loading cosmic functions...   │
+                                                                  │  > Deploying Machine Learning... │
+                                                                  └───────────────────────────────────┘
+                                                                      ↑
+                                                                     [||||||||||||||||||]
+                                                                      ↓
+                                                                    System Online ✅
 
 > *Leveraged academic research in astrophysics to solve real-world data challenges, from satellite imaging to airline route optimizations.*
 
@@ -175,6 +199,13 @@ I enjoy listening to podcasts that challenge and expand my understanding of scie
 
 ---
 
+                                                                         ___
+                                                                   .-""-.(///).-""-.
+                                                                  /  __  \___/  __  \
+                                                                  \ /  \ /   \ /  \ /
+                                                                   (    )     (    )
+                                                                    `--'       `--'
+                                                                    
 ## 📖 Blog & Articles
 I sometimes write about my space-stuff, and my journey through the tech world. Feel free to check out my blog for more insights:
 
